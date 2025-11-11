@@ -1,5 +1,5 @@
 # DSC 250 Final Project
-
+ 
 ## Files
 
 ```experiments.ipynb``` - contains all of our code for running and plotting the experiments in our submission.
